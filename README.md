@@ -3,4 +3,4 @@
 
 # Issues
 
-If you have an issue or questions, please open an issue in fd_storage support repo. [Issues](https://github.com/FelisDevelopment/fd_rc_support/issues)
+If you have an issue or questions, please open an issue in fd_rc support repo. [Issues](https://github.com/FelisDevelopment/fd_rc_support/issues)
